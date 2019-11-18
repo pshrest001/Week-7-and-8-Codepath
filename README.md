@@ -15,7 +15,7 @@ Time spent: **18** hours spent in total
   - [x] GIF Walkthrough: 
      - <img src='praveena1.gif' title='XSS' width='' alt='' />
   - [x] Steps to recreate: 
-        i. Post the text to comment : Link 1 
+        i. Post the text to comment : [Link 1](https://github.com/pshrest001/Week-7-and-8-Codepath/blob/master/xss_file.txt)
         ii. After the approval of the comment, you can see the execution of the code 
   - [ ] Affected source code:
     - [Link 1]
