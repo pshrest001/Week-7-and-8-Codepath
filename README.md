@@ -15,17 +15,25 @@ Time spent: **18** hours spent in total
   - [x] GIF Walkthrough: 
      - <img src='praveena1.gif' title='XSS' width='' alt='' />
   - [x] Steps to recreate: 
-        i. Post the text to comment : [Link 1](https://github.com/pshrest001/Week-7-and-8-Codepath/blob/master/xss_file.txt)
-        ii. After the approval of the comment, you can see the execution of the code 
+        - i. Post the text to comment : [Link 1](https://github.com/pshrest001/Week-7-and-8-Codepath/blob/master/xss_file.txt)
+        - ii. After the approval of the comment, you can see the execution of the code 
   - [ ] Affected source code:
-    - [Link 1]
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+    - [Link 1] (https://github.com/pshrest001/Week-7-and-8-Codepath/blob/master/xss_file.txt)
+    - [Link 2] (https://www.exploit-db.com/exploits/36844)
+    - [Link 3] (https://klikki.fi/adv/wordpress2.html)
+    - [Link 4] (https://packetstormsecurity.com/files/131644/)
+1. (Required) XSS in YouTube URL Embeds
+  - [x] Summary: 
+    - Vulnerability types: CSRF
+    - Tested in version: 4.2
+    - Fixed in version: 4.7.3 
+  - [x] GIF Walkthrough: 
+      - <img src='praveena2.gif' title='XSS' width='' alt='' />
+  - [x] Steps to recreate: 
+      - i. The post should be uploaded only under 
+          - Author
+          - Contributor 
+      - ii. The youtube embed snippet : 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
