@@ -34,19 +34,27 @@ Time spent: **18** hours spent in total
           - Author
           - Contributor 
       - ii. The youtube embed snippet : 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+        -[Link 1] (https://github.com/pshrest001/Week-7-and-8-Codepath/blob/master/embed.txt)
+        
+  - [x] Affected source code:
+    - [Link 1] (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6817)
+    - [Link 2] (https://nvd.nist.gov/vuln/detail/CVE-2017-6817)
+1. (Required) XSS via Media File Metadata
+  - [-] Summary: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.13
+  - [x] GIF Walkthrough: 
+      - <img src='praveena3.gif' title='XSS' width='' alt='' />
+  - [x] Steps to recreate: 
+      - i. Upload any kind of picture with jpg tag (<img src=a onClick=alert(document.cookie)> )
+      - ii. Include as attachment 
+      - iii. Post it as any alighnment you ike 
+      - iv. YOU NEED TO POST AS ADMIN 
+  - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [] Summary: 
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
@@ -67,6 +75,8 @@ Time spent: **18** hours spent in total
 ## Assets
 
 List any additional assets, such as scripts or files
+- i. XSS Comment 
+- ii. Pusheen 
 
 ## Resources
 
