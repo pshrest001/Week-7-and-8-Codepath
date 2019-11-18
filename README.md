@@ -87,8 +87,8 @@ List any additional assets, such as scripts or files
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while doing the work
+- The command root@kali:~# wpscan --url http://wpdistillery.vm --random-agent returned Scan Aborted: invalid option: --random-agent
+- for the file name for the jpg tag, windows does not allow some special characters in file names such as /, |, (, ) etc so you can manually change it after uploading in word press
 
 ## License
 
