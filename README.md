@@ -8,15 +8,16 @@ Time spent: **18** hours spent in total
 ## Pentesting Report
 
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [x] Summary: 
     - Vulnerability types:XSS
     - Tested in version:4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-        i. 
+  - [x] GIF Walkthrough: 
+     - <img src='praveena1.gif' title='XSS' width='' alt='' />
+  - [x] Steps to recreate: 
+        i. Post the text to comment : Link 1 
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1]
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
