@@ -16,6 +16,7 @@ Time spent: **18** hours spent in total
      - <img src='praveena1.gif' title='XSS' width='' alt='' />
   - [x] Steps to recreate: 
         i. Post the text to comment : Link 1 
+        ii. After the approval of the comment, you can see the execution of the code 
   - [ ] Affected source code:
     - [Link 1]
 1. (Required) Vulnerability Name or ID
