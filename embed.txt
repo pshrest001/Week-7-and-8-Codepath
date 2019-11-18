@@ -1,0 +1,1 @@
+[embed src='https://www.youtube.com/embed/dQw4w9WgXcQ\x3csvg onload=alert(document.cookie)\x3e'][/embed]
