@@ -47,7 +47,8 @@ Time spent: **18** hours spent in total
   - [x] GIF Walkthrough: 
       - <img src='praveena3.gif' title='XSS' width='' alt='' />
   - [x] Steps to recreate: 
-      - i. Upload any kind of picture with jpg tag <img src=a onClick=alert(document.cookie)> 
+      - i. Upload any kind of picture with jpg tag 
+      - [Link 1] (https://github.com/pshrest001/Week-7-and-8-Codepath/blob/master/media.txt) 
       - ii. Include as attachment 
       - iii. Post it as any alighnment you ike 
       - iv. YOU NEED TO POST AS ADMIN 
